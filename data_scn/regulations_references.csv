@@ -1,0 +1,13 @@
+param_explanation,parameter,rs,tdvar,snox,bau,imo
+emission budget,eb_kt,IPCC,,infinite,infinite,infinite
+emission target,et,,,,,"IMO2018, Annex 1, p. 5, 3 "
+year of emission target,et_yr,,,,,
+year of emission peak,ep_yr,,,,,
+sox limit in ecas,sl_eca,"MARPOL Annex VI, reg. 14",,,,
+sox limit outside ecas,sl_noneca,"MARPOL Annex VI, reg. 14",,,,
+year of sox limit outside ecas,sl_noneca_yr,"MARPOL Annex VI, reg. 14",,,,
+tier (nox) level in ecas,tl_eca,"MARPOL Annex VI, reg. 13",,,,
+year of tier (nox) level in ecas,tl_eca_yr,"MARPOL Annex VI, reg. 13",,,,
+2016 biofuel share,ba_share,DEA2016,,,,
+2050 biofuel share,ba_change,own assumption,,,,
+change of transport demand,td_change,"OECD2018, p. 18; REX2017, p.19","Simonsen2018, nofossil fuels except jet fuel",,,

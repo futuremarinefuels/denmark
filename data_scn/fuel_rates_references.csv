@@ -1,0 +1,19 @@
+parameter,fuel,rs
+ci,hfo,incl. In cf
+ci,mdo,incl. In cf
+ci,bdo,incl. In cf
+ci,lng,"Brynolf2018, p. 13, fig. 6"
+ci,lbg,"Brynolf2018, p. 13, fig. 6"
+ci,h2,"Brynolf2018, p. 13, fig. 6"
+ci,h2,"Brynolf2018, p. 13, fig. 6"
+ci,h2,"Brynolf2018, p. 13, fig. 6"
+ci,h2,"Brynolf2018, p. 13, fig. 6"
+cf,hfo,"Energinet2017, p. 13, fig. 3"
+cf,mdo,"Energinet2017, p. 13, fig. 3"
+cf,bdo,"Energinet2017, p. 13, fig. 3"
+cf,lng,"Energinet2017, p. 13, fig. 3"
+cf,lbg,"Brynolf2018, p. 13, fig. 6"
+cf,h2,"Brynolf2018, p. 13, fig. 6"
+cf,ch3oh,"Brynolf2018, p. 13, fig. 6"
+cf,nh3,"Brynolf2018, p. 13, fig. 6"
+cf,elec,"Brynolf2018, p. 13, fig. 6"

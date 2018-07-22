@@ -1,0 +1,77 @@
+parameter,ship,rs
+cs,ic_hfo_old,
+cs,ic_mdo_old,
+cs,ic_hfo,
+cs,ic_mdo,
+cs,ic_hfo_rf,
+cs,ic_bdo_rf,
+cs,ic_bdo,
+cs,ic_lng,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,ic_lbg,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,ic_h2,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,ic_ch3oh,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,ic_nh3,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,fc_lng,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,fc_lbg,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,fc_h2,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,fc_ch3oh,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,fc_nh3,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,em_elec,"High fluctuating (Rex2017), depending on maturity of technology"
+cs,wind_elec,"High fluctuating (Rex2017), depending on maturity of technology"
+ts,ic_hfo_old,
+ts,ic_mdo_old,
+ts,ic_hfo,"IMO2014, p. 282, tab. 51"
+ts,ic_mdo,"IMO2014, p. 282, tab. 51"
+ts,ic_hfo_rf,"IMO2014, p. 282, tab. 51"
+ts,ic_bdo_rf,"IMO2014, p. 282, tab. 51"
+ts,ic_bdo,"IMO2014, p. 282, tab. 51"
+ts,ic_lng,"IMO2014, p. 282, tab. 51"
+ts,ic_lbg,"IMO2014, p. 282, tab. 51"
+ts,ic_h2,"IMO2014, p. 282, tab. 51"
+ts,ic_ch3oh,"IMO2014, p. 282, tab. 51"
+ts,ic_nh3,"IMO2014, p. 282, tab. 51"
+ts,fc_lng,"IMO2014, p. 282, tab. 51"
+ts,fc_lbg,"IMO2014, p. 282, tab. 51"
+ts,fc_h2,"IMO2014, p. 282, tab. 51"
+ts,fc_ch3oh,"IMO2014, p. 282, tab. 51"
+ts,fc_nh3,"IMO2014, p. 282, tab. 51"
+ts,em_elec,"IMO2014, p. 282, tab. 51"
+ts,wind_elec,"IMO2014, p. 282, tab. 51"
+ef-co2-w2p,ic_hfo_old,
+ef-co2-w2p,ic_mdo_old,
+ef-co2-w2p,ic_hfo,"IMO2014, p. 282, tab. 51"
+ef-co2-w2p,ic_mdo,"IMO2014, p. 282, tab. 51"
+ef-co2-w2p,ic_hfo_rf,"IMO2014, p. 282, tab. 51"
+ef-co2-w2p,ic_bdo_rf,
+ef-co2-w2p,ic_bdo,
+ef-co2-w2p,ic_lng,"IMO2014, p. 282, tab. 51"
+ef-co2-w2p,ic_lbg,
+ef-co2-w2p,ic_h2,
+ef-co2-w2p,ic_ch3oh,
+ef-co2-w2p,ic_nh3,
+ef-co2-w2p,fc_lng,"IMO2014, p. 282, tab. 51"
+ef-co2-w2p,fc_lbg,
+ef-co2-w2p,fc_h2,
+ef-co2-w2p,fc_ch3oh,
+ef-co2-w2p,fc_nh3,
+ef-co2-w2p,em_elec,
+ef-co2-w2p,wind_elec,
+ef-ch4-w2p,ic_hfo_old,
+ef-ch4-w2p,ic_mdo_old,
+ef-ch4-w2p,ic_hfo,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_mdo,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_hfo_rf,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_bdo_rf,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_bdo,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_lng,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_lbg,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,ic_h2,
+ef-ch4-w2p,ic_ch3oh,
+ef-ch4-w2p,ic_nh3,
+ef-ch4-w2p,fc_lng,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,fc_lbg,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,fc_h2,
+ef-ch4-w2p,fc_ch3oh,"IMO2014, p. 282, tab. 51"
+ef-ch4-w2p,fc_nh3,
+ef-ch4-w2p,em_elec,
+ef-ch4-w2p,wind_elec,
