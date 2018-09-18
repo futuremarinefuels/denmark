@@ -1,0 +1,8 @@
+cargo_est,cargo_est_description
+TOTAL,Total
+LBK,Lq. Bulk
+DBK,Dry Bulk
+LCNT,Lrg. Containers
+RO_MSP,Ro-Ro Self Prop.
+RO_MNSP,Ro-Ro Non-Self Prop.
+OTH,Other

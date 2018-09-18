@@ -1,0 +1,20 @@
+,color,name
+ic_hfo_old,black,Intern. Comb. - Heavy Fuel Oil (old)
+ic_hfo,firebrick,Intern. Comb. - Heavy Fuel Oil + Scrubber
+ic_hfo_rf,maroon,Intern. Comb. - Heavy Fuel Oil + Scrubber (refit)
+ic_mdo_old,gray,Intern. Comb. - Marine Diesel Oil (old)
+ic_mdo,darkgray,Intern. Comb. - Marine Diesel Oil + Scrubber
+ic_bdo,darkgreen,Intern. Comb. - Biodiesel Oil + Scrubber
+ic_bdo_rf,palegreen,Intern. Comb. - Biodiesel Oil + Scrubber (refit)
+ic_lng,darkorange,Intern. Comb. - Liquefied Natural Gas
+ic_lbg,limegreen,Intern. Comb. - Liquefied Biogas
+ic_h2,darkblue,Intern. Comb. - Hydrogen
+ic_ch3oh,olive,Intern. Comb. - Methanol
+ic_nh3,darkcyan,Intern. Comb. - Ammonia
+fc_lng,orange,Fuel Cell - Liquefied Natural Gas
+fc_lbg,lime,Fuel Cell - Liquefied Biogas
+fc_h2,blue,Fuel Cell - Hydrogen
+fc_ch3oh,y,Fuel Cell - Methanol
+fc_nh3,cyan,Fuel Cell - Ammonia
+em_elec,gold,Electro Motor - Electricity
+wind_elec,khaki,Wind - Electricity

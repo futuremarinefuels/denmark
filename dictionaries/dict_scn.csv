@@ -1,0 +1,31 @@
+,name,name_long,color
+batwind,BATW,Battery & Wind,gold
+bau,BAU,Business as Usual,black
+rs,REF,Reference Scenario,black
+h2,H2,Hydrogen,darkblue
+imo,IMO,Int. Maritime Organization,black
+lng,LNG,Liquefied Natural Gas,darkorange
+nh3,NH3,Ammonia,darkcyan
+snox,SNOX,Sulphur & Nitrogen Regulations,orange
+tdvar,TDV,Transport Demand Variation,gray
+bdo,BDO,Biodiesel Oil,darkgreen
+ch3oh,CH3OH,Methanol,olive
+rs_mp,REF(mp),Reference Scenario with methane leakage phase-out until 2050,black
+lbg,LBG,Liquefied Biogas,lime
+lng_mp,LNG(mp),Liquefied Natural Gas with methane leakage phase-out until 2050,orange
+lbg_mp,LBG(mp),Liquefied Biogas with methane leakage phase-out until 2050,limegreen
+batwind_r-99,BATW(r-99),Battery & Wind,gold
+bau_r0,BAU,Business as Usual,black
+rs_r0,REF,Reference Scenario,black
+h2_r20,H2(r20),Hydrogen,darkblue
+imo_r0,IMO,Int. Maritime Organization,black
+lng_r-80,LNG(r-80),Liquefied Natural Gas,darkorange
+nh3_r-20,NH3(r-20),Ammonia,darkcyan
+snox_r0,SNOX,Sulphur & Nitrogen Regulations,orange
+tdvar_r0,TDV,Transport Demand Variation,gray
+bdo_r-50,BDO(r-50),Biodiesel Oil,darkgreen
+ch3oh_r-20,CH3OH(r-20),Methanol,olive
+rs_mp_r0,REF(mp),Reference Scenario with methane leakage phase-out until 2050,black
+lbg_r-40,LBG(r-40),Liquefied Biogas,lime
+lng_mp_r-80,"LNG(mp,r-80)",Liquefied Natural Gas with methane leakage phase-out until 2050,orange
+lbg_mp_r-40,"LBG(mp,r-40)",Liquefied Biogas with methane leakage phase-out until 2050,limegreen

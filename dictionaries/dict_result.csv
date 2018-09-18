@@ -1,0 +1,14 @@
+,name,color
+CF,Fuel Costs,palegreen
+CI,Infrastructure Costs,gray
+CO,Operation Costs,firebrick
+CS,Ship Costs,navy
+EC,CO2 Emissions,firebrick
+EM,CH4 Emissions,darkgreen
+fa,Fuel Amount,palegreen
+fai_cap,Available Infrastructure,darkgray
+fai_up,Added Infrastructure,gray
+far,Ship Refits,olive
+fas_cap,Available Ships,navy
+fas_up,Added Ships,blue
+scrap,Scrapped Ships,brown

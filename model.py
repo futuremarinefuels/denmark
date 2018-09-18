@@ -37,17 +37,17 @@ import os
 
 
 # =============================================================================
-# Choose a scenario
+# Choose a scenario and rate
 # =============================================================================
 
 # Reference scenario: rs
-# Regulation scenarios: bau, ch4leak, snox, imo, tdvar
-# Cost scenarios: batwind, bdo, ch3oh, lbg, lng, ch3oh_mp, lbg_mp, lng_mp, h2,
+# Regulation scenarios: bau, rs_mp, snox, imo, tdvar
+# Cost scenarios: batwind, bdo, ch3oh, lbg, lng, lbg_mp, lng_mp, h2,
 #                 nh3
 
-R = '0'
-scn = 'rs'
-
+rate = -0.5
+R = str(int(rate*100))
+scn = 'lbg_mp'
 
 # =============================================================================
 # Import data
@@ -647,4 +647,5 @@ results.write(num=1)
 
 results_var = {i.name: i.get_values() for i in m.component_objects(Var)}
 variables = pd.DataFrame(results_var)
-variables.to_csv(results_path + '/results_%s.csv' % scn, encoding='utf8')
+variables.to_csv(results_path + '/results_' + scn + '.csv', # _r' + R + '
+                 encoding='utf8')

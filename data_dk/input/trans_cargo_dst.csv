@@ -1,0 +1,20 @@
+cargo_dst,cargo_dst_description,cargo_group,fossil_fuel
+Liquid_gas,LNG,Liquid bulk,yes
+Crude_oil,Crude Oil,Liquid bulk,yes
+Mineral_oil_products,Mineral Oil,Liquid bulk,yes
+Liquid_chemicals,Lq. Chem.,Liquid bulk,no
+Other_liquid_bulk,Oth. Lq. Bulk,Liquid bulk,no
+Ores_and_metal_waste,"Ores, Metal Waste",Solid bulk,no
+Coal,Coal,Solid bulk,yes
+Agricultural_products,Agricultural,Solid bulk,no
+Feeding_stuffs,Food,Solid bulk,no
+Solid_chemicals,S. Chem.,Solid bulk,no
+Fertilizers,Fertilizers,Solid bulk,no
+Bouders_sand_and_gravel,Sand,Solid bulk,no
+Lime_cement_plaster_etc.,Cement,Solid bulk,no
+Other_solid_bulk,Oth. S. Bulk,Solid bulk,no
+Goods_in_containers,Containers,Container,no
+Unregistered_vehicles,Vehicles,Roll-on/off,no
+Wood,Wood,Solid bulk,no
+Iron_and_steel_products,Metal,Solid bulk,no
+Other_goods_in_ro-ro_units,Oth. Ro-Ro,Roll-on/off,no

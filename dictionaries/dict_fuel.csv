@@ -1,0 +1,14 @@
+,color,name
+hfo_old,black,Heavy Fuel Oil (old)
+hfo,firebrick,Heavy Fuel Oil
+hfo_rf,maroon,Heavy Fuel Oil + Scrubber
+mdo_old,gray,Marine Diesel Oil (old)
+mdo,darkgray,Marine Diesel Oil
+bdo,darkgreen,Biodiesel Oil
+bdo_rf,palegreen,Biodiesel Oil + Scrubber
+lng,darkorange,Liquefied Natural Gas
+lbg,lime,Liquefied Biogas
+h2,darkblue,Hydrogen
+ch3oh,olive,Methanol
+nh3,darkcyan,Ammonia
+elec,gold,Electricity
