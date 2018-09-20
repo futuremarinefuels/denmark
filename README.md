@@ -12,7 +12,7 @@ The problem is translated into a stock model that comprises relevant characteris
 2. Create an environment with Anaconda from the .yml file.
 
 ## Getting started
-Open cmd and run jupyter notebook to investigate the notebooks in the data directories and to start the data pre-processing.
+Open cmd and run jupyter notebook to investigate the notebooks and run spyder to open the model.
 
 ### Pre-processing
 The preprocessing notebook creates the input data for the model.
