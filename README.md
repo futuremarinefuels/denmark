@@ -5,34 +5,40 @@ The research project's main objective is to minimize total system costs for supp
 
 The problem is translated into a stock model that comprises relevant characteristics of today’s Danish cargo fleet, its emissions, transport work and fuel consumption. It has different alternative technology investment options as well as emission transport constraints.
 
-## Getting Started
 
+### Installation
 
-### Prerequisites
+1. Install [Anaconda](https://anaconda.org/) as package and environment manager
+2. Create an environment with Anaconda from the .yml file.
 
-1. Create an environment with Anaconda from the .yml file.
-2. 
-```
-Give examples
-```
+## Getting started
+Open cmd and run jupyter notebook to investigate the notebooks in the data directories and to start the data pre-processing.
 
-### Installing
+### Pre-processing
+The preprocessing notebook creates the input data for the model.
 
-A step by step series of examples that tell you how to get a development env running
+1. Open cmd and run jupyter notebook.
+1. Open the pre-processing script.
+2. Choose a cost variation rate (default is zero) and run the notebook.
+3. Step 2 can be repeated with different rates.
 
-Say what the step will be
+### Model excecution
+The model loads the data from the pre-processing depending on a selected rate and scenario.
 
-```
-Give the example
-```
+1. Open cmd and run spyder.
+2. Open model.py.
+3. Select rate and scenario.
+4. Excecute full script.
+5. Step 3 and 4 can be repeated with different rates and scenarios.
 
-And repeat
+### Post-processing
+The post-processing creates a dataframe with the results for a selected model run in csv format.
 
-```
-until finished
-```
+1. Return to jupyter.
+2. Open the post-processing script.
+3. Select rate and scenario and run the notebook.
+4. Step 3 can be repeated several times with all rate and scenario combinations calculated in __Model excecution__.
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 
@@ -42,4 +48,8 @@ End with an example of getting some data out of the system or using it for a lit
 * [Spyder](https://www.spyder-ide.org/) - Integrated development environement
 * [Jupyter Notebook](http://jupyter.org/) - Data processing
 * [Anaconda](https://anaconda.org/) - Package and environment management
+
+## License
+
+The repository is published under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
