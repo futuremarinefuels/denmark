@@ -45,9 +45,9 @@ import os
 # Cost scenarios: batwind, bdo, ch3oh, lbg, lng, lbg_mp, lng_mp, h2,
 #                 nh3
 
-rate = -0.5
+rate = 0.99
 R = str(int(rate*100))
-scn = 'lbg_mp'
+scn = 'rs'
 
 # =============================================================================
 # Import data
