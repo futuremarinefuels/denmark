@@ -18,9 +18,9 @@ Open cmd and run jupyter notebook to investigate the notebooks and run spyder to
 The preprocessing notebook creates the input data for the model.
 
 1. Open cmd and run jupyter notebook.
-1. Open the pre-processing script.
-2. Choose a cost variation rate (default is zero) and run the notebook.
-3. Step 2 can be repeated with different rates.
+2. Open the pre-processing script.
+3. Choose a cost variation rate (default is zero) and run the notebook.
+4. Step 3 can be repeated with different rates.
 
 ### Model excecution
 The model loads the data from the pre-processing depending on a selected rate and scenario.
